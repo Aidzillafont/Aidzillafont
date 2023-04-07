@@ -3,14 +3,17 @@
 <!--
 **Aidzillafont/Aidzillafont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hey there! I'm an experienced Data Scientist 📊, AI Programmer 🧠, and GPT Prompter 🤖. I'm passionate about leveraging the power of data and AI to make a meaningful impact in the world 🌍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 My skills include:
+- Python 🐍
+- Scikit-learn 📚
+- Keras 🧪
+- OpenAI 🌐
+- SQL 🗄️
+- PowerBI 📊
+- PySpark 🔥
+
+I'm always eager to learn and share my knowledge with the community. Thank you for checking out my GitHub! 😄🙏 Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Happy coding! 💻🚀
+
+🎸 Fun fact: I also love playing guitar in my spare time!
